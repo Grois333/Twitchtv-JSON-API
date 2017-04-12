@@ -1,0 +1,77 @@
+body{
+  background-image: url("https://i.ytimg.com/vi/1hyZjBdwK40/maxresdefault.jpg");
+  
+}
+
+.title{
+  color: white;
+}
+
+.subtitle{
+  color:white;
+}
+
+
+img {
+  height: 30px;
+  width: 30px;
+  border-radius: 100%;
+  margin-right: 20px;
+}
+
+.filters{
+  margin-top: 20px;
+  
+}
+
+.filter {
+  padding: 15px 30px;
+  
+}
+
+#streamers {
+  margin-top: 20px;
+  
+}
+
+ul.list li{
+  background-color: rgba(0, 0, 0, 0.62);
+  
+  border: none;
+  margin-top: 5px;
+  color: white;
+}
+
+
+
+.online-icon {
+  position: absolute;
+  right: 20px;
+  line-height: 50px;
+}
+
+.game {
+  font-size: .9em;
+  color: #9E9E9E;
+  margin-left: 50px;
+  font-style: italic;
+}
+
+.hide {
+  display: none;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: #B74934;
+}
+
+input[type="text"], textarea{
+  background-color: rgba(0, 0, 0, 0.62);
+  color: white;
+  
+}
+
